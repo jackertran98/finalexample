@@ -1,0 +1,33 @@
+.container{
+  border: 1px solid #bfbebf;
+  width: 400px !important;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form{
+  padding: 100px;
+  text-align: center;
+  position: relative;
+}
+.form input{
+  height: 40px;
+  width: 300px;
+  margin-top:25px;
+  padding-left: 15px;
+  border-radius: 5px;
+  border: 1px solid #bfbebe;
+} 
+.form button{
+  position: absolute;
+  bottom: 2em;
+  right: 6em;
+}
+nav ul li{
+  display: inline-block;
+  width: 150px;
+}
+nav ul li a{
+  text-decoration: none;
+}
